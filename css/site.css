@@ -1,0 +1,23 @@
+body{
+	width:960px;	
+	margin-left:auto;
+	margin-right:auto;	
+	font-family:Arial;
+	background-color:#fff9e1;
+}
+
+div,h2{			
+	text-align:center;			
+}
+
+.column1,.column2{
+	float:left;
+	width:50%;			
+}
+img{
+	border:3px solid yellow;
+}
+
+.fix{
+	clear:both;
+}
